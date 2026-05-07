@@ -1,2 +1,85 @@
 
 
+body{font-family: aril,sans_serif;
+  margin: 0px;
+  padding: 0;
+  background-color: black;
+}
+header{background-color: #333;
+  color:wite;
+  padding: 1rem;
+  text-align: center;
+}
+nav{display: flex;
+  background_padding: px;
+  justify-content: center;
+  background: #f4f4f4;
+  padding: 10px;
+}
+nav a{color:#0992C2;
+  font-size: .8rem;
+  background_padding:px;
+  margin: 0 15px;
+  text-decoration: none;
+}
+.container{
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.product_cart{background: white;
+  border: 1px solid #ddd;
+  margin: 10px;
+  padding: 15px;
+  width:250px;
+  text-align: center;
+  border-radius: 8px;
+}
+product_cart img{max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+.price{color:green;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+button{background-color: #28a745;
+  color:white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+img{width:180px;
+  
+}
+.whatsapp-btn {
+  display: inline-block;
+  background-color: green;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: righte;
+}
+.btn-container {
+  text-align: center;
+}
+html {
+  scroll-behavior: smooth;
+}
+.card{
+  background-color: #ffffff;
+  padding: 10px 20px
+  color:#0992C2;
+  text-align: center;
+  font-size: .8rem;
+  background_padding:px;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+
